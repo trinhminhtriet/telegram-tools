@@ -1,0 +1,5 @@
+pytz
+asyncio
+pyrogram
+tgcrypto
+python-dotenv
